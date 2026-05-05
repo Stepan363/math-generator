@@ -1,2 +1,4 @@
-# math generator
-Generates random math questions
+# My first simple code on HackClub
+
+
+Just a random math question generator :)
